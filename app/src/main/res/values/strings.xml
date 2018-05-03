@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reqres Tester</string>
+    <string name="add_user">Add user</string>
+    <string name="name">Name</string>
+    <string name="job">Job</string>
+    <string name="add">Add</string>
+</resources>
